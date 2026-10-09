@@ -14,7 +14,7 @@ Audio -> Whisper ASR (word timestamps) -> three feature groups -> stacked regres
 | Training RMSE | 0.2666 |
 | CV RMSE | 0.5425 |
 | CV Pearson | 0.8995 |
-| Leaderboard | (add yours) |
+| Leaderboard | 1.1912 |
 
 ## Run it
 Open `grammar_scoring_engine.ipynb` on Kaggle with GPU and Internet enabled and the
